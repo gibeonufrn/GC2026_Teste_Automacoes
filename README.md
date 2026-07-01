@@ -1,0 +1,1 @@
+# GC2026_Teste_Automacoes
